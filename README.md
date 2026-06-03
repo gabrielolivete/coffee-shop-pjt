@@ -1,14 +1,6 @@
 <h1 align="center" style="font-weight: bold;">☕ COFFE SHOP LANDING PAGE</h1>
 
 <p align="center">
-    <a href="#layout">Layout</a> •
-    <a href="#technologies">Technologies</a> •
-    <a href="#features">Features</a> • 
-    <a href="#started">Getting Started</a> •
-    <a href="#learn">What I Learned</a>
-</p>
-
-<p align="center">
     <b>This project was developed to improve my front-end development skills, focusing on responsive layouts, user interface design, and JavaScript interactions. It is part of my personal portfolio and represents my continuous learning journey as a developer.</b>
 </p>
 
