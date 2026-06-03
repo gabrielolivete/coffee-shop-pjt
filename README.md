@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold; text-transform: uppercase">☕ coffe shop landing page</h1>
+<h1 align="center" style="font-weight: bold;">☕ COFFE SHOP LANDING PAGE</h1>
 
 <p align="center">
     <a href="#layout">Layout</a> •
